@@ -1,7 +1,5 @@
 <h1 align='center'>Modern Web & App Development</h1>
 
-<img src='./imgs/banner.png'/>
-
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,git" /><img src="https://skillicons.dev/icons?i=react,mui,tailwind,nextjs,nodejs" /><img src="https://skillicons.dev/icons?i=express,mongodb,graphql,postgresql,nestjs" /><p/>
 
 ## Module 1: Web Designing
