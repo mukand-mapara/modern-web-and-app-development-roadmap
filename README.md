@@ -1,5 +1,8 @@
 <h1 align='center'>Modern Web & App Development</h1>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=2563EB&center=true&vCenter=true&width=900&lines=HTML+%E2%86%92+CSS+%E2%86%92+JavaScript+%E2%86%92+TypeScript;React+%E2%86%92+Next.js+%E2%86%92+Node.js+%E2%86%92+Databases;React+Native+%E2%86%92+Production+Deployment" alt="Technology learning path" />
+
+
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,git" /><img src="https://skillicons.dev/icons?i=react,mui,tailwind,nextjs,nodejs" /><img src="https://skillicons.dev/icons?i=express,mongodb,graphql,postgresql,nestjs" /><p/>
 
 ## Module 1: Web Designing
